@@ -1,13 +1,13 @@
 .clearfix {
-  overflow: hidden;
+    overflow: hidden;
 }
 
 .float-left {
-  width: 45%;
-  float: left;
+    width: 45%;
+    float: left;
 }
 
 .float-right {
-  width: 45%;
-  float: right;
+    width: 45%;
+    float: right;
 }
